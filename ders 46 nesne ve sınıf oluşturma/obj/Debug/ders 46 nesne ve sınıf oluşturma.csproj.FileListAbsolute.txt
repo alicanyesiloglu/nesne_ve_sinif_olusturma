@@ -1,0 +1,10 @@
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\bin\Debug\ders 46 nesne ve sınıf oluşturma.exe.config
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\bin\Debug\ders 46 nesne ve sınıf oluşturma.exe
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\bin\Debug\ders 46 nesne ve sınıf oluşturma.pdb
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders 46 nesne ve sınıf oluşturma.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders_46_nesne_ve_sınıf_oluşturma.Form1.resources
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders_46_nesne_ve_sınıf_oluşturma.Properties.Resources.resources
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders 46 nesne ve sınıf oluşturma.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders 46 nesne ve sınıf oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders 46 nesne ve sınıf oluşturma.exe
+C:\Users\docal\source\repos\ders 46 nesne ve sınıf oluşturma\ders 46 nesne ve sınıf oluşturma\obj\Debug\ders 46 nesne ve sınıf oluşturma.pdb
